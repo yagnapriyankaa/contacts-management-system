@@ -29,7 +29,7 @@ This project is a full-stack contact management system developed during my inter
 ## Installation and Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/contact-management-system.git
+   git clone https://github.com/yourusername/contacts-management-system.git
    ```
 2. **Navigate to the backend and frontend folders** to set up each component.
 3. **Run the application** by following the specific instructions in each folder’s README file.
