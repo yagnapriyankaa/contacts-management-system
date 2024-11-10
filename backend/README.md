@@ -33,11 +33,11 @@ This is the backend for the **Contact Management System**, built with **Spring B
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/contact-management-system.git
+   git clone https://github.com/yourusername/contacts-management-system.git
    ```
 2. **Navigate to the backend folder**:
    ```bash
-   cd contact-management-system/backend
+   cd contacts-management-system/backend
    ```
 3. **Configure the Database**:
    - Ensure MySQL is running.
